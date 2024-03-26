@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="x" transform="translate(-1 -1)">
+    <path id="パス_15" data-name="パス 15" d="M5587.035,1772.171a1.993,1.993,0,0,1-1.414-.586l-16-16a2,2,0,0,1,2.828-2.828l16,16a2,2,0,0,1-1.414,3.414Z" transform="translate(-5568.035 -1751.172)" fill="#004b9e"/>
+    <path id="パス_16" data-name="パス 16" d="M16,18a1.994,1.994,0,0,1-1.414-.586l-16-16a2,2,0,0,1,0-2.828,2,2,0,0,1,2.828,0l16,16A2,2,0,0,1,16,18Z" transform="translate(3 18.999) rotate(-90)" fill="#004b9e"/>
+  </g>
+</svg>
